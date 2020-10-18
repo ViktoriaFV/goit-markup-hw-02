@@ -1,0 +1,178 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.body {
+
+    font-family: Roboto;
+    font-style: 400;
+    
+}
+
+.logo {
+
+    list-style-type: none;
+    color: #070707;
+    font-family: Raleway;
+}
+
+.logo1
+{
+    
+    text-decoration: none;
+    list-style-type: none;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    letter-spacing: 0.03em;
+    color: #2196F3;
+}
+
+.logo-st
+{
+    display: inline-block;
+    color: #070707;
+    }
+
+.logo-b
+{
+    
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    color: #050505;
+}
+
+.adres {
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    color: #757575;
+}
+
+.logo-b:hover,
+.adres:hover
+{
+    color: #2196F3;
+}
+
+.menu
+{
+    letter-spacing: 0.06em;
+    color: #FFFFFF;
+}
+.menu1
+{
+    
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 60px;
+    background: #000000;
+}
+ 
+.zakazat
+{
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 30px;
+    letter-spacing: 0.06em;
+
+    color: #FFFFFF;
+    background: #000000;
+       
+}
+
+
+.section1
+{
+        
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.03em;
+    color: #212121;
+
+}
+.section1-second
+{
+    
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color: #757575;
+}
+.title
+{
+   
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    letter-spacing: 0.03em;
+    color: #212121;
+}
+
+.signature
+{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 0.03em;
+    color: #212121;
+}
+ .signature1
+{
+    font-weight: 400;
+    color: #757575;
+}
+.footer
+{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;  
+    background: #a39a9a;
+   }
+
+.foter-contact
+{
+   color: rgba(255, 255, 255, 0.6);
+   text-decoration: none;
+}
+/*page2*/
+.page1{
+    
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.03em;
+    color: #212121;
+
+}
+
+.signature-page1-sec{
+   
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    letter-spacing: 0.03em;
+    color: #757575;
+    }
+
+.signature-page1
+{
+     
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 36px;
+    letter-spacing: 0.06em;
+    color: #212121;
+}
